@@ -6,7 +6,7 @@ int main(void) {
     image_t* image;
 
     window = platform_create_window("Hello", 800, 600);
-    image = image_load("Background.tga", "tga");
+    image = image_load("Background.tga");
 
     while (!platform_window_should_close(window)) {
         platform_draw_image(window, image);
