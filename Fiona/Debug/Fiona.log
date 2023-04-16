@@ -1,6 +1,3 @@
 ﻿  Image.c
-  PlatformWin32.c
-E:\Project\Visual Studio\ProfessionalPortfolio\Fiona\Fiona\src\PlatformWin32.c(54,54): warning C4133: “=”: 从“LPCWSTR”到“LPCSTR”的类型不兼容
-  main.c
-  正在生成代码...
+E:\Project\Visual Studio\ProfessionalPortfolio\Fiona\Fiona\src\Image.c(320,28): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
   Fiona.vcxproj -> E:\Project\Visual Studio\ProfessionalPortfolio\Fiona\Debug\Fiona.exe

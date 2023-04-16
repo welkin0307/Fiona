@@ -21,9 +21,6 @@
     <ClInclude Include="src\Error.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="src\TGA.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
     <ClInclude Include="src\Platform.h">
       <Filter>头文件</Filter>
     </ClInclude>
