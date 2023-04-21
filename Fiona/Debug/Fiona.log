@@ -1,3 +1,5 @@
 ﻿  Image.c
-E:\Project\Visual Studio\ProfessionalPortfolio\Fiona\Fiona\src\Image.c(320,28): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
-  Fiona.vcxproj -> E:\Project\Visual Studio\ProfessionalPortfolio\Fiona\Debug\Fiona.exe
+E:\Project\Visual Studio\ProfessionalPortfolio\Fiona\Fiona\src\Image.c(297,28): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+  PlatformWin32.c
+  正在生成代码...
+E:\Project\Visual Studio\ProfessionalPortfolio\Fiona\Fiona\src\PlatformWin32.c : fatal  error C1090: PDB API 调用失败，错误代码“3”: E:\Project\Visual Studio\ProfessionalPortfolio\Fiona\Fiona\Debug\vc143.pdb
